@@ -14,13 +14,28 @@ Similar to online game portals like ["Cool Math Games"](https://www.coolmathgame
 
 Many of the games provided on the grid-like web page will be "single-session games", albeit updated, like "pong". This style of of games allows users to try out the web page's entire catalouge if they happened to exhaust a particular game. Furthermore, this level of accessibilty makes it the ideal webpage to visit if you only have a limited amount of free time with a buddy, want to quickly destress, or you're in the middle of class and want to look busy. If a game does play better with save states, the user can be prompted to register an account if they would like to return to the game. "X" will strive towards simplicity within its gameplay and even user interface.
 
+###                            ["Cool Math Games UI:"](https://www.coolmathgames.com)
+
+###                                              Potential "X" UI:
+
 ## Competitive Element 🏆:
 
 With the option to play local multiplayer or even online multiplayer most, if not all, of the catalouge of games will incorporate some sort of competitive element to keep the user engaged. Additionally, unlike other online game portals, if a user is registered with "X" a leaderboard of your friends list can display:
 
 - total hours played
 - total amount of wins accumulated
-- friend count, etc.
+- friend count
+- invite to game etc.
+
+| Wins | User Name           | Status     |
+|------|:--------------------|:-----------|
+| 3    | Friend 1            | ✔️ <span style="color: #ff5733;">Online</span> |
+| 5    | Friend 2            | Offline    |
+| 0    | Friend 3            | Offline    |
+| 1    | Friend 4            | Offline    |
+| 4    | Friend 5            | ✔️ <span style="color: #ff5733;">Online</span> |
+| 9    | Friend 6            | ✔️ <span style="color: #ff5733;">Online</span> |
+
 
 ## Engagement and Addictiveness Strategies 🔥:
 
