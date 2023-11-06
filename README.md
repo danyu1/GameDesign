@@ -29,12 +29,12 @@ With the option to play local multiplayer or even online multiplayer most, if no
 
 | Wins | User Name           | Status     |
 |------|:--------------------|:-----------|
-| 3    | Friend 1            | ✔️ <span style="color: #ff5733;">Online</span> |
+| 3    | Friend 1            | ✔️ <span style="color: #00FF00;">Online</span> |
 | 5    | Friend 2            | Offline    |
 | 0    | Friend 3            | Offline    |
 | 1    | Friend 4            | Offline    |
-| 4    | Friend 5            | ✔️ <span style="color: #ff5733;">Online</span> |
-| 9    | Friend 6            | ✔️ <span style="color: #ff5733;">Online</span> |
+| 4    | Friend 5            | ✔️ <span style="color:  #00FF00;">Online</span> |
+| 9    | Friend 6            | ✔️ <span style="color:  #00FF00;">Online</span> |
 
 
 ## Engagement and Addictiveness Strategies 🔥:
