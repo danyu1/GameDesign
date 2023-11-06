@@ -9,10 +9,10 @@ Conceptualizing, designing, and planning the development of a large-scale web or
   
 - **Competitive Element:** With the option to play local multiplayer or even online multiplayer most, if not all, of the catalouge of games will incorporate some sort of competitive element to keep the user engaged. Additionally, unlike other online game portals, if a user is registered with "X" a leaderboard of your friends list can display: total hours played, total amount of wins accumulated, etc.
   
-- **Engagement and Addictiveness Strategies:** An explanation of the features or strategies employed to make the application/game engaging and addictive.
+- **Engagement and Addictiveness Strategies:** Simple but engaging games elicit a sense of competitiveness not only with others but withing yourself as well. It's not uncommon to become hooked on a game because you want beat your previous highscore. 
   
-- **Scalability and Expansion:** A discussion of how the design allows for future growth and adoption beyond the initial homework assignment.
+- **Scalability and Expansion:** "X" will start off with a few classic and simple games to populate the website. As the activity on the page grows, it will be incredibly easy to add any new game to the already simple user interface. Additionally, like discussed previously, the web page can easily become monetized without inhibiting the user experience.
   
-- **Accessibility and Inclusivity:** A section detailing how the design adheres to the California non-discrimination clause and ensures inclusivity for all potential users.
+- **Accessibility and Inclusivity:** All characters in-game are fictional and will not be based on anything in the real world.
   
 
