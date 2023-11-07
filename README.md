@@ -14,11 +14,17 @@ Similar to online game portals like ["Cool Math Games"](https://www.coolmathgame
 
 Many of the games provided on the grid-like web page will be "single-session games", albeit updated, like "pong". This style of of games allows users to try out the web page's entire catalouge if they happened to exhaust a particular game. Furthermore, this level of accessibilty makes it the ideal webpage to visit if you only have a limited amount of free time with a buddy, want to quickly destress, or you're in the middle of class and want to look busy. If a game does play better with save states, the user can be prompted to register an account if they would like to return to the game. "X" will strive towards simplicity within its gameplay and even user interface.
 
-### -------------------------["Cool Math Games UI:"](https://www.coolmathgames.com)----------------------------------------
+<div align="center">
+  <h1><a href="https://www.coolmathgames.com">🌟 Cool Math Games UI 🌟</a></h1>
+</div>
 
 ![CoolMaths UI](images/coolmathgames.png)
 
-### -----------------------------------------Potential "X" UI:-------------------------------------------------------------
+---
+
+<div align="center">
+  <h2>🚀 Potential "X" UI 🚀</h2>
+</div>
 
 ![Template "X" UI](images/template.png)
 
