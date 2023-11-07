@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: 'JetBrains Mono', monospace;
-  }
-</style>
-
 # GameDesign - "X"
 
 Conceptualizing, designing, and planning the development of a large-scale web or mobile application/game
@@ -11,6 +5,14 @@ Conceptualizing, designing, and planning the development of a large-scale web or
 ## Introduction 🎮:
 
 Even to this day classics like connect 4, tic-tac-toe, and pong are played as a quick and simple pass time either in between study sessions or even in class. "X" aims to provide a refreshing take on classic games that provided entertainment to all of us in our previous years and presumably in our years to come. With the hopes of providing a new layer of depth to your favorite games, users will become more hooked than ever before.
+-pong 2.0
+**power ups, leaderboards, ...**
+-connect x
+**increase board size, point system, power ups**
+-reverse tower defnense
+**Invert genre by allowing players to control the waves of enemies and attempt to defeat the player's defensive structures in creative ways.**
+-recursive tic-tac-toe "Tic-Tac-2"
+**Tic-tac-toe isnide of tic-tac-toe**
 
 ## Value/Use 💡:
 
@@ -63,3 +65,7 @@ Simple but engaging games elicit a sense of competitiveness not only with others
 ## Accessibility and Inclusivity 🌍:
 
 All characters in-game are fictional and will not be based on anything in the real world.
+
+## Possible Revamped Games:
+
+
