@@ -5,14 +5,21 @@ Conceptualizing, designing, and planning the development of a large-scale web or
 ## Introduction 🎮:
 
 Even to this day classics like connect 4, tic-tac-toe, and pong are played as a quick and simple pass time either in between study sessions or even in class. "X" aims to provide a refreshing take on classic games that provided entertainment to all of us in our previous years and presumably in our years to come. With the hopes of providing a new layer of depth to your favorite games, users will become more hooked than ever before.
--pong 2.0
-**power ups, leaderboards, ...**
--connect x
-**increase board size, point system, power ups**
--reverse tower defnense
-**Invert genre by allowing players to control the waves of enemies and attempt to defeat the player's defensive structures in creative ways.**
--recursive tic-tac-toe "Tic-Tac-2"
-**Tic-tac-toe isnide of tic-tac-toe**
+
+- **Pong 2.0**
+
+  - _Description:_ A modernized version of the classic Pong game with added features such as power-ups, leaderboards, and more.
+
+- **Connect X**
+
+  - _Description:_ A variation of the classic Connect Four game with an increased board size, a point system, and various power-ups to make it more challenging and exciting.
+
+- **Reverse Tower Defense**
+
+  - _Description:_ Invert the tower defense genre by allowing players to control waves of enemies and challenge them to defeat the player's defensive structures in creative and strategic ways.
+
+- **Recursive Tic-Tac-Toe "Tic-Tac-2"**
+  - _Description:_ A unique twist on Tic-Tac-Toe, where players play Tic-Tac-Toe games inside of other Tic-Tac-Toe games, creating a recursive and challenging experience.
 
 ## Value/Use 💡:
 
@@ -67,5 +74,3 @@ Simple but engaging games elicit a sense of competitiveness not only with others
 All characters in-game are fictional and will not be based on anything in the real world.
 
 ## Possible Revamped Games:
-
-
