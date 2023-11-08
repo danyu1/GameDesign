@@ -14,10 +14,6 @@ Even to this day classics like connect 4, tic-tac-toe, and pong are played as a 
 
   - _Description:_ A variation of the classic Connect Four game with an increased board size, a point system, and various power-ups to make it more challenging and exciting.
 
-- **Reverse Tower Defense**
-
-  - _Description:_ Invert the tower defense genre by allowing players to control waves of enemies and challenge them to defeat the player's defensive structures in creative and strategic ways.
-
 - **Tic-Tac-Toe**
   - _Description:_ A unique twist on Tic-Tac-Toe, where players play Tic-Tac-Toe games inside of other Tic-Tac-Toe games, creating a recursive and challenging experience.
 
