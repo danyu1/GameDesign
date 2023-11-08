@@ -1,10 +1,10 @@
-# GameDesign - "X"
+# GameDesign - ""
 
 Conceptualizing, designing, and planning the development of a large-scale web or mobile application/game
 
 ## Introduction 🎮:
 
-Even to this day classics like connect 4, tic-tac-toe, and pong are played as a quick and simple pass time either in between study sessions or even in class. "X" aims to provide a refreshing take on classic games that provided entertainment to all of us in our previous years and presumably in our years to come. With the hopes of providing a new layer of depth to your favorite games, users will become more hooked than ever before.
+Even to this day classics like connect 4, tic-tac-toe, and pong are played as a quick and simple pass time either in between study sessions or even in class. "" aims to provide a refreshing take on classic games that provided entertainment to all of us in our previous years and presumably in our years to come. With the hopes of providing a new layer of depth to your favorite games, users will become more hooked than ever before.
 
 - **Pong 2.0**
 
@@ -23,11 +23,11 @@ Even to this day classics like connect 4, tic-tac-toe, and pong are played as a 
 
 ## Value/Use 💡:
 
-Similar to online game portals like ["Cool Math Games"](https://www.coolmathgames.com), "X" will provide easy and simple access to a catalouge of revamped classic games only a click away. Furthermore, due to the nature of its design (being a web app), monetization through advertisements will be incredibly simple to implement all while not hindering the users experience with intersitial ads aka "full-screen ads".
+Similar to online game portals like ["Cool Math Games"](https://www.coolmathgames.com), "" will provide easy and simple access to a catalouge of revamped classic games only a click away. Furthermore, due to the nature of its design (being a web app), monetization through advertisements will be incredibly simple to implement all while not hindering the users experience with intersitial ads aka "full-screen ads".
 
 ## User Interaction and Experience:
 
-Many of the games provided on the grid-like web page will be "single-session games", albeit updated, like "pong". This style of of games allows users to try out the web page's entire catalouge if they happened to exhaust a particular game. Furthermore, this level of accessibilty makes it the ideal webpage to visit if you only have a limited amount of free time with a buddy, want to quickly destress, or you're in the middle of class and want to look busy. If a game does play better with save states, the user can be prompted to register an account if they would like to return to the game. "X" will strive towards simplicity within its gameplay and even user interface.
+Many of the games provided on the grid-like web page will be "single-session games", albeit updated, like "pong". This style of of games allows users to try out the web page's entire catalouge if they happened to exhaust a particular game. Furthermore, this level of accessibilty makes it the ideal webpage to visit if you only have a limited amount of free time with a buddy, want to quickly destress, or you're in the middle of class and want to look busy. If a game does play better with save states, the user can be prompted to register an account if they would like to return to the game. "" will strive towards simplicity within its gameplay and even user interface.
 
 <div align="center">
   <h1><a href="https://www.coolmathgames.com">🌟 Cool Math Games UI 🌟</a></h1>
@@ -38,14 +38,14 @@ Many of the games provided on the grid-like web page will be "single-session gam
 ---
 
 <div align="center">
-  <h2>🚀 Potential "X" UI 🚀</h2>
+  <h2>🚀 Potential "" UI 🚀</h2>
 </div>
 
-![Template "X" UI](images/template.png)
+![Template "" UI](images/template.png)
 
 ## Competitive Element 🏆:
 
-With the option to play local multiplayer or even online multiplayer most, if not all, of the catalouge of games will incorporate some sort of competitive element to keep the user engaged. Additionally, unlike other online game portals, if a user is registered with "X" a leaderboard of your friends list can display:
+With the option to play local multiplayer or even online multiplayer most, if not all, of the catalouge of games will incorporate some sort of competitive element to keep the user engaged. Additionally, unlike other online game portals, if a user is registered with "" a leaderboard of your friends list can display:
 
 - total hours played
 - total amount of wins accumulated
@@ -67,7 +67,7 @@ Simple but engaging games elicit a sense of competitiveness not only with others
 
 ## Scalability and Expansion 🌱:
 
-"X" will start off with a few classic and simple games to populate the website. As the activity on the page grows, it will be incredibly easy to add any new game to the already simple user interface. Additionally, like discussed previously, the web page can easily become monetized without inhibiting the user experience.
+"" will start off with a few classic and simple games to populate the website. As the activity on the page grows, it will be incredibly easy to add any new game to the already simple user interface. Additionally, like discussed previously, the web page can easily become monetized without inhibiting the user experience.
 
 ## Accessibility and Inclusivity 🌍:
 
