@@ -72,5 +72,3 @@ Simple but engaging games elicit a sense of competitiveness not only with others
 ## Accessibility and Inclusivity 🌍:
 
 All characters in-game are fictional and will not be based on anything in the real world.
-
-## Possible Revamped Games:
