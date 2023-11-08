@@ -18,7 +18,7 @@ Even to this day classics like connect 4, tic-tac-toe, and pong are played as a 
 
   - _Description:_ Invert the tower defense genre by allowing players to control waves of enemies and challenge them to defeat the player's defensive structures in creative and strategic ways.
 
-- **Recursive Tic-Tac-Toe "Tic-Tac-2"**
+- **Tic-Tac-Toe
   - _Description:_ A unique twist on Tic-Tac-Toe, where players play Tic-Tac-Toe games inside of other Tic-Tac-Toe games, creating a recursive and challenging experience.
 
 ## Value/Use 💡:
