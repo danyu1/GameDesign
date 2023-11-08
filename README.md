@@ -52,7 +52,7 @@ With the option to play local multiplayer or even online multiplayer most, if no
 - friend count
 - invite to game etc.
 
-| Wins | User Name | Status                                              |
+| Wins On Game | User Name | Status                                              |
 | ---- | :-------- | :-------------------------------------------------- |
 | 3    | Friend 1  | ✔️ **<span style="color: #00FF00;">Online</span>**  |
 | 5    | Friend 2  | Offline                                             |
